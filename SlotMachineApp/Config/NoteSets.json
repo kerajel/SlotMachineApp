@@ -1,0 +1,57 @@
+﻿{
+  "NoteSets": [
+    {
+      "Name": "Fanfares",
+      "Notes": [
+        {
+          "Frequency": 659,
+          "Duration": 167
+        },
+        {
+          "Frequency": 783,
+          "Duration": 167
+        },
+        {
+          "Frequency": 987,
+          "Duration": 333
+        },
+        {
+          "Frequency": 783,
+          "Duration": 83
+        },
+        {
+          "Frequency": 987,
+          "Duration": 83
+        },
+        {
+          "Frequency": 1175,
+          "Duration": 333
+        },
+        {
+          "Frequency": 987,
+          "Duration": 83
+        },
+        {
+          "Frequency": 1175,
+          "Duration": 83
+        },
+        {
+          "Frequency": 1319,
+          "Duration": 333
+        },
+        {
+          "Frequency": 1175,
+          "Duration": 83
+        },
+        {
+          "Frequency": 1319,
+          "Duration": 83
+        },
+        {
+          "Frequency": 1568,
+          "Duration": 333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿{
+  "SpinnerSection": [
+    {
+      "SectionType": "BaseBar",
+      "Glyph": null,
+      "ValuePerFullSet": 5,
+      "ValuePerSingleItem": 0,
+      "BaseTypeName": null,
+      "SectionCount": 0
+    },
+    {
+      "SectionType": "Blank",
+      "Glyph": "B",
+      "ValuePerFullSet": 0,
+      "ValuePerSingleItem": 0,
+      "BaseTypeName": null,
+      "SectionCount": 0
+    },
+    {
+      "SectionType": "Cherry",
+      "Glyph": "C",
+      "ValuePerFullSet": 0,
+      "ValuePerSingleItem": 2,
+      "BaseSectionType": null,
+      "SectionCount": 1
+    },
+    {
+      "SectionType": "Bar",
+      "Glyph": "1",
+      "ValuePerFullSet": 25,
+      "ValuePerSingleItem": 0,
+      "BaseSectionType": "BaseBar",
+      "SectionCount": 3
+    },
+    {
+      "SectionType": "DoubleBar",
+      "Glyph": "2",
+      "ValuePerFullSet": 50,
+      "ValuePerSingleItem": 0,
+      "BaseSectionType": "BaseBar",
+      "SectionCount": 2
+    },
+    {
+      "SectionType": "TripleBar",
+      "Glyph": "3",
+      "ValuePerFullSet": 100,
+      "ValuePerSingleItem": 0,
+      "BaseSectionType": "BaseBar",
+      "SectionCount": 1
+    },
+    {
+      "SectionType": "Seven",
+      "Glyph": "7",
+      "ValuePerFullSet": 300,
+      "ValuePerSingleItem": 0,
+      "BaseSectionType": null,
+      "SectionCount": 1
+    }
+  ]
+}
